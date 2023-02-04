@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1>Olá! Eu sou o Carlos Alberto.</h1>
 
-<!--
-**devcarlosalberto/devcarlosalberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou desenvolvedor back-end e atualmente trabalho como Ass. de Vendas Jr. na Magazine Luiza.
+- 🌱 Estudando JavaScript
+- 📫 Contate-me no email: devcarlosalberto@gmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/devcarlosalberto">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devcarlosalberto&theme=transparent&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcarlosalberto&theme=transparent&layout=compact" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Carlos-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />        
+  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+##
+
+<div>
+  <a href="https://instagram.com/carlospereira305" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCYI1tC35GoVKIzvLa2bhFpw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href = "mailto:devcarlosalberto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/devcarlosalberto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+![Snake animation](https://github.com/devcarlosalberto/devcarlosalberto/blob/output/github-contribution-grid-snake.svg)
