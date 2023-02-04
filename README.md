@@ -1,8 +1,8 @@
-<h1>Olá! Eu sou o Carlos Alberto.</h1>
+<h1>Eai! Eu sou o Carlos.</h1>
 
 - 🔭 Sou desenvolvedor back-end e atualmente trabalho como Ass. de Vendas Jr. na Magazine Luiza.
-- 🌱 Estudando JavaScript
-- 📫 Contate-me no email: devcarlosalberto@gmail.com
+- 🌱 Estudante de JavaScript.
+- 📫 Entre em contato por email: devcarlosalberto@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div>
