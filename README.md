@@ -1,6 +1,6 @@
 <h1>Eai! Eu sou o Carlos.</h1>
 
-- 🔭 Sou desenvolvedor back-end e atualmente trabalho como Ass. de Vendas Jr. na Magazine Luiza.
+- 🔭 Sou desenvolvedor back-end mas atualmente trabalho como Ass. de Vendas Jr. na Magazine Luiza.
 - 🌱 Estudante de JavaScript.
 - 📫 Entre em contato por email: devcarlosalberto@gmail.com
 - 😄 Pronouns: ele/dele
