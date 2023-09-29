@@ -1,4 +1,4 @@
-<h1>Eai! Eu sou o Carlos.</h1>
+<h1>Salve! My name is Carlos ;)</h1>
 
 - 🔭 Sou desenvolvedor fullstack mas atualmente trabalho como Ass. de Vendas Jr. na Magazine Luiza.
 - 📫 Entre em contato por email: devcarlosalberto@gmail.com
