@@ -1,8 +1,8 @@
 <h1>Salve! My name is Carlos ;)</h1>
 
-- 🔭 Sou desenvolvedor fullstack mas atualmente trabalho como Ass. de Vendas Jr. na Magazine Luiza.
-- 📫 Entre em contato por email: devcarlosalberto@gmail.com
-- 😄 Pronouns: ele/dele
+- 🔭 I'm a front-end developer but I currently work as a Jr. Sales Assistant at Magazine Luiza.
+- 📫 Contact by email: devcarlosalberto@gmail.com
+- 😄 Pronouns: he/him
 
 <div>
   <a href="https://github.com/devcarlosalberto">
