@@ -1,4 +1,4 @@
-<h1>Salve! My name is Carlos ;)</h1>
+<h1>Hey! My name is Carlos ;)</h1>
 
 - 🔭 I'm a front-end developer but I currently work as a Jr. Sales Assistant at Magazine Luiza.
 - 📫 Contact by email: devcarlosalberto@gmail.com
