@@ -1,6 +1,6 @@
 <h1>Hey! My name is Carlos ;)</h1>
 
-- 🔭 I'm a front-end developer but I currently work as a Jr. Sales Assistant at Magazine Luiza.
+- 🔭 I'm a front-end developer but I currently work as a Front-end Developer Jr. at @LuizaLabs.
 - 📫 Contact by email: devcarlosalberto@gmail.com
 - 😄 Pronouns: he/him
 
